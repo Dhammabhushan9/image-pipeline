@@ -80,8 +80,8 @@ A full-stack application for creating and managing image inpainting masks using 
 
 ## Development
 
-- Frontend runs on http://localhost:5173
-- Backend runs on http://localhost:5000
+- Frontend runs on  https://image-pipeline-pu4w.vercel.app/
+- Backend runs on  https://image-pipeline-plum.vercel.app/
 - Images are stored in `server/uploads/`
 - MongoDB runs on default port 27017
 
